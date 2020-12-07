@@ -1,3 +1,5 @@
+2020/12/07 https://hiplot.com.cn/docs/zh/usage/basic/ ；https://hiplot.com.cn/docs/modules.html 这部分目前只有英文，可以参与文档的翻译工作。
+
 # Overview
 
 <img src="https://img.shields.io/badge/lifecycle-experimental-orange.svg" alt="Life cycle: experimental">
